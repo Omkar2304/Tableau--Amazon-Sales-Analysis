@@ -84,7 +84,7 @@ business growth.
 <h2>📷 Dashboard Preview</h2>
 
 <p align="center">
-<img src="[https://github.com/Omkar2304/Tableau--Amazon-Sales-Analysis/blob/main/Amazon%20Sales%20Dashboard.png](https://github.com/Omkar2304/Tableau--Amazon-Sales-Analysis/blob/0cabd0b33b600e27485404bc3306d8a73ad6ffd3/Amazon%20Sales%20Analysis-Home%20Page.png)" width="900">
+<img src="Amazon Sales Analysis-Home Page.png" width="900">
 </p>
 
 <h2>📁 Repository Structure</h2>
